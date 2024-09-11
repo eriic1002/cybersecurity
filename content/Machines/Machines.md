@@ -1,3 +1,7 @@
+---
+title: 🖥️ Machines
+---
+
 #index #ctf-machine 
 
 ## Hack the box

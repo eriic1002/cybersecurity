@@ -1,9 +1,3 @@
----
-title: AdmX
-draft: 
-tags:
----
-
 #ctf-machine #vulnhub #easy-machine #linux  [VulnhubLink](https://download.vulnhub.com/admx/AdmX_new.7z)
 
 ## Enumeración inicial

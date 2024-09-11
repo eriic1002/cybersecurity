@@ -1,3 +1,33 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+h1 {
+  color: #976ef8 !important
+}
+
+h2 {
+    color: #7350c3 !important
+}
+
+h3 {
+    color: #6941c5 !important
+}
+
+code {
+    color: #d45cf5 !important
+}
+
+
+
+p{
+    font-size: 1.2rem
+}
+
+a.tag-link {
+    color: rgb(208, 208, 208) !important;
+    font-size: 1rem;
+}
+
+.tags{
+    display: none;
+}
