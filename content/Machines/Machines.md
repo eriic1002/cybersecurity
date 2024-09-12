@@ -8,6 +8,7 @@ title: 🖥️ Machines
 - [[MonitorsThree]]
 - [[Sea]]
 - [[Sightless]]
+- [[Cap]]
 
 ## VulnHub
 - [[IMF 1]]
